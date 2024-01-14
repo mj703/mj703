@@ -1,7 +1,7 @@
 <img src="https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif"/>
 
 <h1 align="center">Hi 👋, I'm Madhuraj Singh </h1>
-<h3 align="center">An aspiring DevOps / MlOps Engineer from India </h3>
+<h3 align="center">An aspiring DevOps / MlOps / SRE Engineer from India </h3>
 
 - 🌱 As an AI enthusiast with extensive knowledge in machine learning and deep learning, I have successfully contributed to real-world AI and Data Science projects. In these endeavors, I applied my skills to effectively solve complex problems. My commitment to continuous learning extends beyond traditional ML, encompassing crucial aspects of the modern AI landscape. I have refined my expertise in CI/CD pipelines and cloud infrastructure management, enabling the seamless integration and deployment of machine learning models.
 - I have a solid foundation in MLOps practices, ensuring the efficient and reliable operation of ML systems at scale. This includes versioning, automated testing, and robust monitoring to maintain peak model performance. My proficiency in Kubernetes has allowed me to orchestrate and manage containerized ML applications, enhancing scalability and resource utilization.
