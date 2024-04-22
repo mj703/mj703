@@ -12,86 +12,85 @@
 - 💫 In the realm of MLOps, I am dedicated to ensuring the efficient and reliable operation of ML systems at scale. This includes versioning ML models, implementing automated testing frameworks, and establishing robust monitoring solutions to maintain peak model performance. Leveraging Kubernetes for orchestration, I streamline the deployment of containerized ML applications, enhancing scalability and resource utilization while minimizing operational overhead.
 
 - ✨ Driven by a passion for creating impactful solutions, I strive to deploy models that not only deliver valuable insights but also drive tangible business outcomes. Whether collaborating within a team or working independently, I bring a proactive and collaborative approach to every project, ensuring its success from conception to deployment.
--  🛸
--  
+
 
 ## 💻 Tech Stack:
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="65" height="65" />
-    </a>
+            alt="aws" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash" width="65" height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="65" height="65" />
-    </a>
+            alt="docker" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65" />
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="65" height="65" />
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="kafka" width="65"
-            height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="kafka" width="60"
+            height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="65"
-            height="65" />
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60"
+            height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="65" height="65" />
-    </a>
+            width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="65" height="65" />
-    </a>
+            alt="mongodb" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="65" height="65" />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas" width="65" height="65" />
-    </a>
+            alt="mysql" width="60" height="60" />
+    </a>&nbsp;&nbsp;
+    <a href="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png"
+            alt="pandas" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="65" height="65" />
-    </a>
+            alt="python" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-            width="65" height="65" />
-    </a>
+            width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="65"
-            height="65" />
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60"
+            height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="GitHub-Actions" width="65"
-            height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="GitHub-Actions" width="60"
+            height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/svg/FastAPI.svg" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="GitHub-Actions" width="65" height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="GitHub-Actions" width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg"  width="65" height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg"  width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"  width="65" height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"  width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://mlops.toys/images/projects/bentoml.svg" target="_blank" rel="noreferrer">
-        <img src="https://mlops.toys/images/projects/bentoml.svg"  width="65" height="65" />
-    </a>
+        <img src="https://mlops.toys/images/projects/bentoml.svg"  width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/svg/Prometheus.svg" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg"  width="65" height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg"  width="60" height="60" />
+    </a>&nbsp;&nbsp;
     <a href="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"  width="65" height="65" />
-    </a>
+        <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"  width="60" height="60" />
+    </a>&nbsp;&nbsp;
 </p>
 
 
