@@ -1,14 +1,21 @@
 <img src="https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif"/>
 
 <h1 align="center">Hi 👋, I'm Madhuraj Singh </h1>
-<h3 align="center">An aspiring DevOps / MlOps / SRE Engineer from India </h3>
+<h3 align="center">An aspiring Data / MlOps / SRE Engineer from India </h3>
 
-- 🌱 As an AI enthusiast with extensive knowledge in machine learning and deep learning, I have successfully contributed to real-world AI and Data Science projects. In these endeavors, I applied my skills to effectively solve complex problems. My commitment to continuous learning extends beyond traditional ML, encompassing crucial aspects of the modern AI landscape. I have refined my expertise in CI/CD pipelines and cloud infrastructure management, enabling the seamless integration and deployment of machine learning models.
-- I have a solid foundation in MLOps practices, ensuring the efficient and reliable operation of ML systems at scale. This includes versioning, automated testing, and robust monitoring to maintain peak model performance. My proficiency in Kubernetes has allowed me to orchestrate and manage containerized ML applications, enhancing scalability and resource utilization.
-- I am driven to create and deploy models that not only deliver valuable insights but also contribute tangible business impact. Whether working independently or collaboratively within a team, I consistently bring a proactive, collaborative approach to every project, ensuring a successful outcome.
+- 🚀 As an AI enthusiast with a solid background in Data Engineering and MLOps, I offer extensive experience in actively contributing to real-world AI and data engineering initiatives. My proficiency encompasses not only conventional ML techniques but also critical facets of contemporary AI, such as data engineering and MLOps practices.
 
+- 💡 In the realm of data engineering, I excel in designing and implementing robust ETL processes to efficiently extract, transform, and load data into scalable data warehouses. Leveraging cloud services I ensure the reliability and performance of data pipelines, facilitating seamless data access for analytics and model training.
 
-# 💻 Tech Stack:
+- 🔦 Moreover, my proficiency extends to data warehouse modeling, where I architect efficient and scalable data schemas optimized for analytics and reporting. By harnessing technologies like Snowflake and Amazon Redshift, I empower organizations to derive actionable insights from their data with speed and accuracy.
+
+- 💫 In the realm of MLOps, I am dedicated to ensuring the efficient and reliable operation of ML systems at scale. This includes versioning ML models, implementing automated testing frameworks, and establishing robust monitoring solutions to maintain peak model performance. Leveraging Kubernetes for orchestration, I streamline the deployment of containerized ML applications, enhancing scalability and resource utilization while minimizing operational overhead.
+
+- ✨ Driven by a passion for creating impactful solutions, I strive to deploy models that not only deliver valuable insights but also drive tangible business outcomes. Whether collaborating within a team or working independently, I bring a proactive and collaborative approach to every project, ensuring its success from conception to deployment.
+-  🛸
+-  
+
+## 💻 Tech Stack:
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
