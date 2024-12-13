@@ -1,17 +1,19 @@
 <img src="https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif"/>
 
 <h1 align="center">Hi 👋, I'm Madhuraj Singh </h1>
-<h3 align="center">An aspiring Data / MlOps / SRE Engineer from India </h3>
+<h3 align="center">An aspiring MlOps / SRE Engineer from India </h3>
 
-- 🚀 As an AI enthusiast with a solid background in Data Engineering and MLOps, I offer extensive experience in actively contributing to real-world AI and data engineering initiatives. My proficiency encompasses not only conventional ML techniques but also critical facets of contemporary AI, such as data engineering and MLOps practices.
+## About Me
 
-- 💡 In the realm of data engineering, I excel in designing and implementing robust ETL processes to efficiently extract, transform, and load data into scalable data warehouses. Leveraging cloud services I ensure the reliability and performance of data pipelines, facilitating seamless data access for analytics and model training.
+- 🌐 **Site Reliability Engineer** with over 3 years of experience in designing and optimizing reliable, scalable, and cost-efficient cloud systems. I specialize in enhancing CI/CD pipelines, minimizing downtime, and implementing Infrastructure as Code (IaC) solutions. My expertise spans **Docker**, **AWS**, **Kubernetes**, and **Terraform**, with a proven track record of automating processes to improve operational efficiency and system reliability.
 
-- 🔦 Moreover, my proficiency extends to data warehouse modeling, where I architect efficient and scalable data schemas optimized for analytics and reporting. By harnessing technologies like Snowflake and Amazon Redshift, I empower organizations to derive actionable insights from their data with speed and accuracy.
+- 🛠️ I have successfully architected and managed high-availability, fault-tolerant cloud infrastructures, primarily on **AWS**. I’ve implemented **Terraform** for cloud resource provisioning, enabling scalable and efficient management across various engineering teams. My focus on **Automation** and **Best Practices** ensures that complex systems operate with minimal manual intervention, enhancing both reliability and performance.
 
-- 💫 In the realm of MLOps, I am dedicated to ensuring the efficient and reliable operation of ML systems at scale. This includes versioning ML models, implementing automated testing frameworks, and establishing robust monitoring solutions to maintain peak model performance. Leveraging Kubernetes for orchestration, I streamline the deployment of containerized ML applications, enhancing scalability and resource utilization while minimizing operational overhead.
+- 📈 As a strong advocate for **DevOps** and **GitOps** principles, I’ve utilized **ArgoCD** to enable continuous deployment workflows and automated monitoring using tools like **Prometheus**, **Grafana**, and **Datadog**. I’m also experienced in enhancing system observability through centralized logging and proactive monitoring to ensure that systems meet SLA requirements and operational targets.
 
-- ✨ Driven by a passion for creating impactful solutions, I strive to deploy models that not only deliver valuable insights but also drive tangible business outcomes. Whether collaborating within a team or working independently, I bring a proactive and collaborative approach to every project, ensuring its success from conception to deployment.
+- 🚀 In my previous roles at **Ineuron.ai** and **alpha.ai**, I led the migration from legacy infrastructure to cloud-native solutions, improving resource utilization, cost efficiency, and deployment speed. I also contributed to the optimization of **MLOps** workflows, facilitating seamless and automated ML model deployments using **AWS EKS**, **Helm**, and **GitHub Actions**.
+
+- 💬 I believe in a collaborative approach to solving complex problems and have mentored cross-functional teams to drive operational excellence. With my focus on automation and continuous improvement, I am passionate about creating systems that are both reliable and efficient.
 
 
 ## 💻 Tech Stack:
