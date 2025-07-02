@@ -82,7 +82,6 @@
     <a href="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"  width="60" height="60" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    
     <a href="https://icon.icepanel.io/Technology/svg/Prometheus.svg" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg"  width="60" height="60" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
