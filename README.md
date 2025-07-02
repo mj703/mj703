@@ -1,17 +1,15 @@
 <img src="https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif"/>
 
 <h1 align="center">Hi 👋, I'm Madhuraj Singh </h1>
-<h3 align="center">An aspiring MlOps / SRE Engineer from India </h3>
+<h3 align="center"> MlOps / SRE Engineer from India </h3>
 
 ## About Me
 
-- 🌐 **Site Reliability Engineer** with over 3 years of experience in designing and optimizing reliable, scalable, and cost-efficient cloud systems. I specialize in enhancing CI/CD pipelines, minimizing downtime, and implementing Infrastructure as Code (IaC) solutions. My expertise spans **Docker**, **AWS**, **Kubernetes**, and **Terraform**, with a proven track record of automating processes to improve operational efficiency and system reliability.
+- 🌐 **MlOps Engineer** with over 3 years of experience in designing and optimizing reliable, scalable, and cost-efficient cloud systems. I specialize in enhancing CI/CD pipelines, minimizing downtime, and implementing Infrastructure as Code (IaC) solutions. My expertise spans **Docker**, **AWS**, **Kubernetes**, and **Terraform**, **Python Backends** , **Database** Management with a proven track record of automating processes to improve operational efficiency and system reliability.
 
 - 🛠️ I have successfully architected and managed high-availability, fault-tolerant cloud infrastructures, primarily on **AWS**. I’ve implemented **Terraform** for cloud resource provisioning, enabling scalable and efficient management across various engineering teams. My focus on **Automation** and **Best Practices** ensures that complex systems operate with minimal manual intervention, enhancing both reliability and performance.
 
 - 📈 As a strong advocate for **DevOps** and **GitOps** principles, I’ve utilized **ArgoCD** to enable continuous deployment workflows and automated monitoring using tools like **Prometheus**, **Grafana**, and **Datadog**. I’m also experienced in enhancing system observability through centralized logging and proactive monitoring to ensure that systems meet SLA requirements and operational targets.
-
-- 🚀 In my previous roles at **Ineuron.ai** and **alpha.ai**, I led the migration from legacy infrastructure to cloud-native solutions, improving resource utilization, cost efficiency, and deployment speed. I also contributed to the optimization of **MLOps** workflows, facilitating seamless and automated ML model deployments using **AWS EKS**, **Helm**, and **GitHub Actions**.
 
 - 💬 I believe in a collaborative approach to solving complex problems and have mentored cross-functional teams to drive operational excellence. With my focus on automation and continuous improvement, I am passionate about creating systems that are both reliable and efficient.
 
@@ -84,9 +82,7 @@
     <a href="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"  width="60" height="60" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://mlops.toys/images/projects/bentoml.svg" target="_blank" rel="noreferrer">
-        <img src="https://mlops.toys/images/projects/bentoml.svg"  width="60" height="60" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    
     <a href="https://icon.icepanel.io/Technology/svg/Prometheus.svg" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg"  width="60" height="60" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
