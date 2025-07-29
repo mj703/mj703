@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🌐 **MlOps Engineer** with over 3 years of experience in designing and optimizing reliable, scalable, and cost-efficient cloud systems. I specialize in enhancing CI/CD pipelines, minimizing downtime, and implementing Infrastructure as Code (IaC) solutions. My expertise spans **Docker**, **AWS**, **Kubernetes**, and **Terraform**, **Python Backends** , **Database** Management with a proven track record of automating processes to improve operational efficiency and system reliability.
+- 🌐 **MlOps Engineer** with around 5  years of experience in designing and optimizing reliable, scalable, and cost-efficient cloud systems. I specialize in enhancing CI/CD pipelines, minimizing downtime, and implementing Infrastructure as Code (IaC) solutions. My expertise spans **Docker**, **AWS**, **Kubernetes**, and **Terraform**, **Python Backends** , **Database** Management with a proven track record of automating processes to improve operational efficiency and system reliability.
 
 - 🛠️ I have successfully architected and managed high-availability, fault-tolerant cloud infrastructures, primarily on **AWS**. I’ve implemented **Terraform** for cloud resource provisioning, enabling scalable and efficient management across various engineering teams. My focus on **Automation** and **Best Practices** ensures that complex systems operate with minimal manual intervention, enhancing both reliability and performance.
 
